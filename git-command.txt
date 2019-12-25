@@ -1,0 +1,21 @@
+clone command
+git clone https://github.com/sakshiagarwal1sept/mahanet.git
+
+check status
+git status
+
+Add new file
+git add .
+
+For Commit code
+git commit -m "This is new file"
+
+push code/file on git
+git push origin master
+
+Create a new branch
+git branch <gitbranch>
+
+create a new branch and switch on new branch
+git checkout -b <newbranch>
+
